@@ -15,24 +15,24 @@
 
 /* Window and Body Styles */
 
-
-
+html {
+  height: 100%;
+}
+body {
+  width: 95%;
+  min-width: 640px;
+  max-width: 960px;
+  margin: 0 auto;
+  min-height: 100%;
+}
+img {
+  display: block;
+}
 
 /* CSS Grid Styles */
 
-
-
-
-
-
 /* Horizontal Navigation List Styles */
-
-
 
 /* Section Styles */
 
-
-
-
 /* Customer Comment Styles */
-
