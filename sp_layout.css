@@ -85,23 +85,23 @@ aside {
    grid-gap: 20px;
  } */
 
-aside {
+/* aside {
   width: 100%;
   padding-bottom: 30px;
   border: 1px solid black;
-}
+} */
 
-aside:nth-of-type(odd) {
+/* aside:nth-of-type(odd) {
   justify-self: end;
-}
+} */
 
-aside img {
+/* aside img {
   float: left;
   width: 20%;
-}
+} */
 
-aside p {
+/* aside p {
   float: left;
   width: 75%;
   margin-left: 5%;
-}
+} */
