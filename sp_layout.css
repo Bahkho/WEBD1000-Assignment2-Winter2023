@@ -95,3 +95,8 @@ aside{
    justify-self: end;
  }
  
+ aside img {
+   float: left;
+   width: 20%;
+ }
+ 
