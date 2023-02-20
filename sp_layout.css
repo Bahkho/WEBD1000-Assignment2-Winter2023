@@ -79,18 +79,6 @@ aside {
   padding-bottom: 30px;
 }
 
-/* .container {
-   display: grid;
-   grid-template-columns: repeat(2, 1fr);
-   grid-gap: 20px;
- } */
-
-/* aside {
-  width: 100%;
-  padding-bottom: 30px;
-  border: 1px solid black;
-} */
-
 aside:nth-of-type(odd) {
   justify-self: end;
 }
@@ -100,8 +88,8 @@ aside img {
   width: 20%;
 }
 
-/* aside p {
+aside p {
   float: left;
   width: 75%;
   margin-left: 5%;
-} */
+}
