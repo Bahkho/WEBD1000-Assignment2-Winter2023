@@ -91,9 +91,9 @@ aside {
   border: 1px solid black;
 } */
 
-/* aside:nth-of-type(odd) {
+aside:nth-of-type(odd) {
   justify-self: end;
-} */
+}
 
 /* aside img {
   float: left;
