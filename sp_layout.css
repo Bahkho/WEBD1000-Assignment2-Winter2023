@@ -7,7 +7,7 @@
    
    Layout styles for Slate and Pencil Tutoring
     Author: Bakare Abdulwahab Akorede
-   Date:   02/20/2023
+   Date:   02/23/2023
    
    Filename: sp_layout.css
 
@@ -36,25 +36,20 @@ body {
 }
 
 #logo {
-  grid-column: 1 / span 3;
+  grid-column: span 3;
   width: 100%;
-}
-
-/* Horizontal Navigation List Styles */
-
-.vertical ul li {
-  grid-column: 3 / span 4;
 }
 
 footer,
 .horizontal {
-  grid-column: 1 / span 4;
+  grid-column: span 4;
 }
 
 aside {
-  grid-column: 1 / span 2;
+  grid-column: span 2;
 }
 
+/* Horizontal Navigation List Styles */
 .horizontal ul li {
   display: block;
   width: 12.5%;
@@ -79,7 +74,7 @@ aside {
 }
 
 aside:nth-of-type(odd) {
-  justify-self: end;
+  justify-self: right;
 }
 
 aside img {
